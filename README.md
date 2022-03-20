@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsdamas
-- 👀 I’m interested in learning front-end development.
-- 🌱 I’m currently learning HTML and CSS. I started two weeks ago. What I can say is that it has been addictive.  
+- 👀 I’m interested in learning web development.
+- 🌱 I’m currently learning JS and React. My coding journey started in 2021. What I can say is that it has been addictive.  
 - 💞️ I’m looking to collaborate on any project actually. I'm passionate about learning new things and helping others.
 - 📫 How to reach me tssdamasceno@gmail.com
 
