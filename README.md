@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsdamas
-- 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning JS, SQL and C++. My coding journey started in 2021. What I can say is that it has been addictive.  
+- 👀 I’m interested in learning software development.
+- 🌱 I’m currently learning Java. My coding journey started in 2021. What I can say is that it has been addictive.  
 - 💞️ I’m looking to collaborate on any project actually. I'm passionate about learning new things and helping others.
 - 📫 How to reach me tssdamasceno@gmail.com
 
